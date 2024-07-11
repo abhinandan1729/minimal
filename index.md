@@ -1,12 +1,6 @@
 ---
 layout: default
 ---
-
-_Email_ : abhi [at] ms.u-tokyo.ac.jp
-
-_Office_ : 3-8-1 Komaba, Meguro City, Tokyo 
-
-* * *
 		
 I am a JSPS postdoctoral fellow at the [Graduate School of Mathematical Sciences](https://www.ms.u-tokyo.ac.jp/), The University of Tokyo.
 		
@@ -38,6 +32,8 @@ My [CV](cv.pdf).
 __Proceedings:__ Finite crystalline height representations and syntomic complexes, [_RIMS Kôkyûroku No. 2269_](https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2269.html) (2023)
 
 __PhD Thesis:__ Finite height representations and syntomic complex, [_HAL thèses_](https://tel.archives-ouvertes.fr/tel-03485160) (2021)
+
+* * *
 
 #### Other writings:
 
