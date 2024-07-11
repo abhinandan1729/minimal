@@ -2,6 +2,19 @@
 layout: default
 ---
 
+Email : abhi [at] ms.u-tokyo.ac.jp
+
+Office : 3-8-1 Komaba, Meguro City, Tokyo 
+		
+I am a JSPS postdoctoral fellow at [Graduate School of Mathematical Sciences](https://www.ms.u-tokyo.ac.jp/), The University of Tokyo.
+		
+I am primarily interested in arithmetic geometry, in particular, p-adic Hodge theory and p-adic cohomology theories.
+
+Previously, I was a postdoc in [Lille](http://math.univ-lille1.fr/).
+Before that, I was a doctoral student at [Institut de Math&eacutematiques de Bordeaux](https://www.math.u-bordeaux.fr/imb/spip.php) under the supervision of [Denis Benois](https://www.math.u-bordeaux.fr/~dbenoua/) and [Nicola Mazzari](https://sites.google.com/site/nclmzzr/).
+Before joining the doctoral program, I was an [ALGANT](http://algant.eu/) master student in [Leiden](https://www.universiteitleiden.nl/en/science/mathematics) and [Bordeaux](https://www.u-bordeaux.com/).
+Even before that, I was a [software engineer](https://research.samsung.com/sri-b).
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
