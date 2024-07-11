@@ -24,15 +24,10 @@ My [CV](cv.pdf).
 #### Papers:
 
 * [Prismatic F-crystals and Wach modules](prismatic_wach.pdf) (2024)
-
-* [Crystalline part of the Galois cohomology of crystalline representations](crystalline_galois_cohomology.pdf) (submitted, 2024)
-				
-* [Crystalline representations and Wach modules in the relative case II](wachmod_relative_ii.pdf) (submitted, 2024)
-				
+* [Crystalline part of the Galois cohomology of crystalline representations](crystalline_galois_cohomology.pdf) (submitted, 2024)				
+* [Crystalline representations and Wach modules in the relative case II](wachmod_relative_ii.pdf) (submitted, 2024)		
 * [Crystalline representations and Wach modules in the imperfect residue field case](wachmod_imperfect.pdf) (submitted, 2024)
-
-* [Syntomic complex and p-adic nearby cycles](syntomic_complex.pdf) (submitted, 2023)
-				
+* [Syntomic complex and p-adic nearby cycles](syntomic_complex.pdf) (submitted, 2023)				
 * Crystalline representations and Wach modules in the relative case, [_Annales de l'Institut Fourier_](https://doi.org/10.5802/aif.3670) (2024)
 
 __Proceedings:__ Finite crystalline height representations and syntomic complexes, [_RIMS Kôkyûroku No. 2269_](https://www.kurims.kyoto-u.ac.jp/~kyodo/kokyuroku/contents/2269.html) (2023)
@@ -42,9 +37,6 @@ __PhD Thesis:__ Finite height representations and syntomic complex, [_HAL thèse
 #### Other writings:
 
 * I presented a [poster](poster_lmn_2022.pdf) at the conference [LMN2022](https://sites.google.com/view/lmn2022/).
-
-* [Notes](https://lesesvre.perso.math.cnrs.fr/s2-lecture5.pdf) from my expository talk 'On local newforms for U(3)' at Université de Lille (written by [Didier Lesesvre](https://lesesvre.perso.math.cnrs.fr/index.html)).
-					
+* [Notes](https://lesesvre.perso.math.cnrs.fr/s2-lecture5.pdf) from my expository talk 'On local newforms for U(3)' at Université de Lille (written by [Didier Lesesvre](https://lesesvre.perso.math.cnrs.fr/index.html)).					
 * I made a [poster](poster_edmi_2020.pdf) for journée l'EDMI 2020, Bordeaux.
-
 * I wrote a [master's thesis](https://www.math.u-bordeaux.fr/~ybilu/algant/documents/theses/Abhinandan.pdf) titled "p-adic Galois representations and elliptic curves".
